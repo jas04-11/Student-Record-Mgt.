@@ -38,18 +38,18 @@ The primary aim of this project is to build a solid foundation in Java programmi
 Navigate to the project directory:
 -------------------------------------
 bash
-
 cd StudentRecordsManagement
+
 Compile the Java source code:
 -----------------------------------
 bash
-
 javac StudentRecordsManager.java
+
 Run the compiled program:
 -------------------------------------
 bash
-
 java StudentRecordsManager
+
 ----------------------------------------------------------------------------------
 Follow the on-screen menu to add, search, sort, display, or delete student records.
 
