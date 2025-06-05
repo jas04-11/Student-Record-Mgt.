@@ -73,6 +73,8 @@ Student Records Management
 4. Display All Students
 5. Delete Student by ID
 6. Exit
+
+
 Enter your choice: 1
 Enter ID: 101
 Enter Name: Jasleen
@@ -85,6 +87,9 @@ ID: 101, Name: Jasleen, Marks: 88
 Enter your choice: 2
 Enter student ID to search: 101
 Found: ID: 101, Name: Jasleen, Marks: 88
+
+![image](https://github.com/user-attachments/assets/c1607db9-04a9-4701-9031-3e93196d5935)
+
 
 ------------------------------------------------------------------------------
 ## Future Enhancements
